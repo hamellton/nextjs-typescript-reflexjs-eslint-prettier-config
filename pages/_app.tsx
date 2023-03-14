@@ -19,6 +19,8 @@ const test: Itest<number> = {
   digital: 10,
 };
 
+const test1 = 10;
+
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <ReflexThemeProvider theme={reflexTheme}>

@@ -19,7 +19,7 @@ const test: Itest<number> = {
   digital: 10,
 };
 
-const test1 = 10;
+const test1 = 'test';
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
